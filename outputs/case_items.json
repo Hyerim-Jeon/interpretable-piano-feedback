@@ -1,0 +1,4847 @@
+{
+ "budget": 3,
+ "beta": 1.0,
+ "definition": "D (Section V-A)",
+ "performances": [
+  {
+   "pid": 61,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.111,
+     "rank": 5
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.241,
+     "rank": 1
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.17,
+     "rank": 4
+    },
+    {
+     "measures": [
+      118,
+      135
+     ],
+     "share_of_weakness": 0.209,
+     "rank": 3
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.016,
+     "rank": 7
+    },
+    {
+     "measures": [
+      195,
+      203
+     ],
+     "share_of_weakness": 0.235,
+     "rank": 2
+    },
+    {
+     "measures": [
+      251,
+      260
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 8
+    },
+    {
+     "measures": [
+      270,
+      274
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.018,
+     "rank": 6
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      203
+     ],
+     "segment_share_of_weakness": 0.235,
+     "segment_rank": 2,
+     "conveyed_after": 0.235,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.738,
+       "expert_norm": 0.111,
+       "toward": "Even",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      118,
+      135
+     ],
+     "segment_share_of_weakness": 0.209,
+     "segment_rank": 3,
+     "conveyed_after": 0.372,
+     "category_shares": {
+      "Tempo": 0.655,
+      "Touch": 0.019,
+      "Musicality": 0.235,
+      "Emotion": 0.09
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.369,
+       "expert_norm": -0.726,
+       "toward": "Strict tempo",
+       "measures_with_guideline": 14
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.241,
+     "segment_rank": 1,
+     "conveyed_after": 0.497,
+     "category_shares": {
+      "Dynamic": 0.007,
+      "Touch": 0.016,
+      "Tone": 0.554,
+      "Pedal": 0.389,
+      "Musicality": 0.034
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.217,
+     "share_in_category": 0.936,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.643,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 0.94 >= diffuseness 0.22",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 63,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D1-2-3-6-7-8-11_mid--AUDIO-from_mp3_08_R2_2015_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.085,
+     "rank": 5
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.335,
+     "rank": 1
+    },
+    {
+     "measures": [
+      98,
+      135
+     ],
+     "share_of_weakness": 0.26,
+     "rank": 2
+    },
+    {
+     "measures": [
+      147,
+      156
+     ],
+     "share_of_weakness": 0.038,
+     "rank": 6
+    },
+    {
+     "measures": [
+      195,
+      204
+     ],
+     "share_of_weakness": 0.155,
+     "rank": 3
+    },
+    {
+     "measures": [
+      263,
+      274
+     ],
+     "share_of_weakness": 0.126,
+     "rank": 4
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.335,
+     "segment_rank": 1,
+     "conveyed_after": 0.207,
+     "category_shares": {
+      "Tempo": 0.617,
+      "Tone": 0.221,
+      "Pedal": 0.151,
+      "Musicality": 0.011
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.425,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      195,
+      204
+     ],
+     "segment_share_of_weakness": 0.155,
+     "segment_rank": 3,
+     "conveyed_after": 0.357,
+     "category_shares": {
+      "Dynamic": 0.001,
+      "Touch": 0.031,
+      "Tone": 0.967
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.67,
+       "expert_norm": 0.133,
+       "toward": "Even",
+       "measures_with_guideline": 10
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      263,
+      274
+     ],
+     "segment_share_of_weakness": 0.126,
+     "segment_rank": 4,
+     "conveyed_after": 0.483,
+     "category_shares": {
+      "Tempo": 1.0,
+      "Musicality": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.628,
+       "expert_norm": 0.333,
+       "toward": "Freely",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 64,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_082_PIANO082_MID--AUDIO-split_07-09-17_Piano-e_2_-04_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.15,
+     "rank": 3
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.415,
+     "rank": 1
+    },
+    {
+     "measures": [
+      96,
+      96
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    },
+    {
+     "measures": [
+      98,
+      114
+     ],
+     "share_of_weakness": 0.162,
+     "rank": 2
+    },
+    {
+     "measures": [
+      118,
+      132
+     ],
+     "share_of_weakness": 0.131,
+     "rank": 4
+    },
+    {
+     "measures": [
+      134,
+      138
+     ],
+     "share_of_weakness": 0.041,
+     "rank": 6
+    },
+    {
+     "measures": [
+      147,
+      157
+     ],
+     "share_of_weakness": 0.01,
+     "rank": 8
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.07,
+     "rank": 5
+    },
+    {
+     "measures": [
+      268,
+      274
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      286,
+      295
+     ],
+     "share_of_weakness": 0.021,
+     "rank": 7
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.415,
+     "segment_rank": 1,
+     "conveyed_after": 0.276,
+     "category_shares": {
+      "Tempo": 0.666,
+      "Touch": 0.021,
+      "Tone": 0.262,
+      "Pedal": 0.043,
+      "Musicality": 0.007
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.397,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      1,
+      10
+     ],
+     "segment_share_of_weakness": 0.15,
+     "segment_rank": 3,
+     "conveyed_after": 0.388,
+     "category_shares": {
+      "Tempo": 0.746,
+      "Dynamic": 0.017,
+      "Pedal": 0.052,
+      "Musicality": 0.007,
+      "Emotion": 0.178
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.501,
+       "expert_norm": -0.16,
+       "toward": "Freely",
+       "measures_with_guideline": 8
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L1",
+     "measures": [
+      98,
+      114
+     ],
+     "segment_share_of_weakness": 0.162,
+     "segment_rank": 2,
+     "conveyed_after": 0.488,
+     "category_shares": {
+      "Dynamic": 0.014,
+      "Touch": 0.182,
+      "Tone": 0.019,
+      "Musicality": 0.784
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.789,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.326,
+      "Collapse (Flat) - Expand (Spacious)": 0.299,
+      "Disproportioned - Balanced": 0.375
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": -0.081,
+       "expert_norm": 0.333,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.286,
+       "expert_norm": 0.667,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.5,
+       "expert_norm": -0.87,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.79 > largest share 0.38",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 66,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "ORIG-MIDI_01_7_10_13_Group_MID--AUDIO_08_R3_2013_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.056,
+     "rank": 6
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 9
+    },
+    {
+     "measures": [
+      41,
+      56
+     ],
+     "share_of_weakness": 0.257,
+     "rank": 2
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.14,
+     "rank": 3
+    },
+    {
+     "measures": [
+      119,
+      135
+     ],
+     "share_of_weakness": 0.11,
+     "rank": 4
+    },
+    {
+     "measures": [
+      147,
+      156
+     ],
+     "share_of_weakness": 0.084,
+     "rank": 5
+    },
+    {
+     "measures": [
+      195,
+      206
+     ],
+     "share_of_weakness": 0.328,
+     "rank": 1
+    },
+    {
+     "measures": [
+      253,
+      257
+     ],
+     "share_of_weakness": 0.011,
+     "rank": 8
+    },
+    {
+     "measures": [
+      265,
+      274
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      287,
+      296
+     ],
+     "share_of_weakness": 0.012,
+     "rank": 7
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      206
+     ],
+     "segment_share_of_weakness": 0.328,
+     "segment_rank": 1,
+     "conveyed_after": 0.326,
+     "category_shares": {
+      "Dynamic": 0.0,
+      "Touch": 0.007,
+      "Tone": 0.993
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.824,
+       "expert_norm": 0.167,
+       "toward": "Even",
+       "measures_with_guideline": 12
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      41,
+      56
+     ],
+     "segment_share_of_weakness": 0.257,
+     "segment_rank": 2,
+     "conveyed_after": 0.447,
+     "category_shares": {
+      "Tempo": 0.47,
+      "Dynamic": 0.003,
+      "Touch": 0.013,
+      "Tone": 0.326,
+      "Pedal": 0.17,
+      "Musicality": 0.018
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.377,
+       "expert_norm": -0.226,
+       "toward": "Freely",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      41,
+      56
+     ],
+     "segment_share_of_weakness": 0.257,
+     "segment_rank": 2,
+     "conveyed_after": 0.531,
+     "category_shares": {
+      "Tempo": 0.47,
+      "Dynamic": 0.003,
+      "Touch": 0.013,
+      "Tone": 0.326,
+      "Pedal": 0.17,
+      "Musicality": 0.018
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.665,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 68,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_19_R2_2015_wav--2",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.059,
+     "rank": 6
+    },
+    {
+     "measures": [
+      34,
+      56
+     ],
+     "share_of_weakness": 0.206,
+     "rank": 3
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.226,
+     "rank": 1
+    },
+    {
+     "measures": [
+      118,
+      136
+     ],
+     "share_of_weakness": 0.215,
+     "rank": 2
+    },
+    {
+     "measures": [
+      146,
+      157
+     ],
+     "share_of_weakness": 0.082,
+     "rank": 5
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.007,
+     "rank": 8
+    },
+    {
+     "measures": [
+      263,
+      275
+     ],
+     "share_of_weakness": 0.18,
+     "rank": 4
+    },
+    {
+     "measures": [
+      288,
+      292
+     ],
+     "share_of_weakness": 0.024,
+     "rank": 7
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      263,
+      275
+     ],
+     "segment_share_of_weakness": 0.18,
+     "segment_rank": 4,
+     "conveyed_after": 0.179,
+     "category_shares": {
+      "Tempo": 0.996,
+      "Touch": 0.004,
+      "Musicality": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.606,
+       "expert_norm": 0.333,
+       "toward": "Freely",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.206,
+     "segment_rank": 3,
+     "conveyed_after": 0.341,
+     "category_shares": {
+      "Tempo": 0.782,
+      "Touch": 0.002,
+      "Tone": 0.193,
+      "Musicality": 0.023
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.39,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L1",
+     "measures": [
+      98,
+      115
+     ],
+     "segment_share_of_weakness": 0.226,
+     "segment_rank": 1,
+     "conveyed_after": 0.471,
+     "category_shares": {
+      "Dynamic": 0.028,
+      "Touch": 0.167,
+      "Tone": 0.05,
+      "Musicality": 0.755
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.765,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.218,
+      "Collapse (Flat) - Expand (Spacious)": 0.342,
+      "Disproportioned - Balanced": 0.44
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": 0.101,
+       "expert_norm": 0.333,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.361,
+       "expert_norm": 0.667,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.505,
+       "expert_norm": -0.87,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.76 > largest share 0.44",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 69,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "ORIG-MIDI_02_7_10_13_Group_MID--AUDIO_12_R3_2013_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.02,
+     "rank": 6
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.009,
+     "rank": 7
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.368,
+     "rank": 1
+    },
+    {
+     "measures": [
+      81,
+      85
+     ],
+     "share_of_weakness": 0.002,
+     "rank": 8
+    },
+    {
+     "measures": [
+      99,
+      115
+     ],
+     "share_of_weakness": 0.19,
+     "rank": 3
+    },
+    {
+     "measures": [
+      118,
+      138
+     ],
+     "share_of_weakness": 0.134,
+     "rank": 4
+    },
+    {
+     "measures": [
+      145,
+      156
+     ],
+     "share_of_weakness": 0.193,
+     "rank": 2
+    },
+    {
+     "measures": [
+      195,
+      203
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      255,
+      255
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 11
+    },
+    {
+     "measures": [
+      263,
+      277
+     ],
+     "share_of_weakness": 0.083,
+     "rank": 5
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.368,
+     "segment_rank": 1,
+     "conveyed_after": 0.162,
+     "category_shares": {
+      "Tempo": 0.44,
+      "Touch": 0.004,
+      "Tone": 0.399,
+      "Pedal": 0.143,
+      "Musicality": 0.014
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.369,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      145,
+      156
+     ],
+     "segment_share_of_weakness": 0.193,
+     "segment_rank": 2,
+     "conveyed_after": 0.322,
+     "category_shares": {
+      "Touch": 0.003,
+      "Tone": 0.829,
+      "Pedal": 0.003,
+      "Musicality": 0.165
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.601,
+       "expert_norm": 0.522,
+       "toward": "Even",
+       "measures_with_guideline": 12
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.368,
+     "segment_rank": 1,
+     "conveyed_after": 0.459,
+     "category_shares": {
+      "Tempo": 0.44,
+      "Touch": 0.004,
+      "Tone": 0.399,
+      "Pedal": 0.143,
+      "Musicality": 0.014
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.216,
+     "share_in_category": 0.936,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.715,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 0.94 >= diffuseness 0.22",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 70,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.024,
+     "rank": 6
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.015,
+     "rank": 7
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.31,
+     "rank": 1
+    },
+    {
+     "measures": [
+      96,
+      96
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.21,
+     "rank": 3
+    },
+    {
+     "measures": [
+      118,
+      135
+     ],
+     "share_of_weakness": 0.106,
+     "rank": 4
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.078,
+     "rank": 5
+    },
+    {
+     "measures": [
+      195,
+      206
+     ],
+     "share_of_weakness": 0.251,
+     "rank": 2
+    },
+    {
+     "measures": [
+      210,
+      214
+     ],
+     "share_of_weakness": 0.006,
+     "rank": 8
+    },
+    {
+     "measures": [
+      265,
+      275
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 11
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      206
+     ],
+     "segment_share_of_weakness": 0.251,
+     "segment_rank": 2,
+     "conveyed_after": 0.251,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.739,
+       "expert_norm": 0.167,
+       "toward": "Even",
+       "measures_with_guideline": 12
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.31,
+     "segment_rank": 1,
+     "conveyed_after": 0.384,
+     "category_shares": {
+      "Tempo": 0.429,
+      "Touch": 0.004,
+      "Tone": 0.403,
+      "Pedal": 0.152,
+      "Musicality": 0.011
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.337,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      98,
+      115
+     ],
+     "segment_share_of_weakness": 0.21,
+     "segment_rank": 3,
+     "conveyed_after": 0.508,
+     "category_shares": {
+      "Tempo": 0.591,
+      "Dynamic": 0.006,
+      "Touch": 0.066,
+      "Musicality": 0.337,
+      "Emotion": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.79,
+       "expert_norm": 0.286,
+       "toward": "Freely",
+       "measures_with_guideline": 7
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 71,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.021,
+     "rank": 7
+    },
+    {
+     "measures": [
+      42,
+      56
+     ],
+     "share_of_weakness": 0.243,
+     "rank": 2
+    },
+    {
+     "measures": [
+      96,
+      115
+     ],
+     "share_of_weakness": 0.117,
+     "rank": 4
+    },
+    {
+     "measures": [
+      118,
+      132
+     ],
+     "share_of_weakness": 0.096,
+     "rank": 5
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.087,
+     "rank": 6
+    },
+    {
+     "measures": [
+      195,
+      203
+     ],
+     "share_of_weakness": 0.288,
+     "rank": 1
+    },
+    {
+     "measures": [
+      263,
+      275
+     ],
+     "share_of_weakness": 0.132,
+     "rank": 3
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.015,
+     "rank": 8
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      203
+     ],
+     "segment_share_of_weakness": 0.288,
+     "segment_rank": 1,
+     "conveyed_after": 0.288,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.775,
+       "expert_norm": 0.111,
+       "toward": "Even",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      263,
+      275
+     ],
+     "segment_share_of_weakness": 0.132,
+     "segment_rank": 3,
+     "conveyed_after": 0.42,
+     "category_shares": {
+      "Tempo": 1.0,
+      "Musicality": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.538,
+       "expert_norm": 0.333,
+       "toward": "Freely",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      42,
+      56
+     ],
+     "segment_share_of_weakness": 0.243,
+     "segment_rank": 2,
+     "conveyed_after": 0.513,
+     "category_shares": {
+      "Tempo": 0.384,
+      "Touch": 0.009,
+      "Tone": 0.284,
+      "Pedal": 0.322
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.34,
+       "expert_norm": -0.256,
+       "toward": "Freely",
+       "measures_with_guideline": 15
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 73,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_22_R3_2011_MID--AUDIO_R3-D7_03_Track03_wav",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.129,
+     "rank": 4
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.003,
+     "rank": 8
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.374,
+     "rank": 1
+    },
+    {
+     "measures": [
+      96,
+      114
+     ],
+     "share_of_weakness": 0.123,
+     "rank": 5
+    },
+    {
+     "measures": [
+      118,
+      134
+     ],
+     "share_of_weakness": 0.13,
+     "rank": 3
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.073,
+     "rank": 6
+    },
+    {
+     "measures": [
+      195,
+      202
+     ],
+     "share_of_weakness": 0.162,
+     "rank": 2
+    },
+    {
+     "measures": [
+      210,
+      214
+     ],
+     "share_of_weakness": 0.005,
+     "rank": 7
+    },
+    {
+     "measures": [
+      263,
+      274
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.374,
+     "segment_rank": 1,
+     "conveyed_after": 0.225,
+     "category_shares": {
+      "Tempo": 0.603,
+      "Touch": 0.01,
+      "Tone": 0.222,
+      "Pedal": 0.148,
+      "Musicality": 0.017
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.43,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      195,
+      202
+     ],
+     "segment_share_of_weakness": 0.162,
+     "segment_rank": 2,
+     "conveyed_after": 0.387,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.708,
+       "expert_norm": 0.083,
+       "toward": "Even",
+       "measures_with_guideline": 8
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      118,
+      134
+     ],
+     "segment_share_of_weakness": 0.13,
+     "segment_rank": 3,
+     "conveyed_after": 0.488,
+     "category_shares": {
+      "Tempo": 0.769,
+      "Touch": 0.022,
+      "Musicality": 0.051,
+      "Emotion": 0.158
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.452,
+       "expert_norm": -0.718,
+       "toward": "Strict tempo",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 74,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "ORIG-MIDI_01_7_10_13_Group_MID--AUDIO_07_R3_2013_wav--2",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.027,
+     "rank": 7
+    },
+    {
+     "measures": [
+      34,
+      56
+     ],
+     "share_of_weakness": 0.331,
+     "rank": 1
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.18,
+     "rank": 3
+    },
+    {
+     "measures": [
+      118,
+      134
+     ],
+     "share_of_weakness": 0.243,
+     "rank": 2
+    },
+    {
+     "measures": [
+      146,
+      157
+     ],
+     "share_of_weakness": 0.069,
+     "rank": 5
+    },
+    {
+     "measures": [
+      196,
+      204
+     ],
+     "share_of_weakness": 0.111,
+     "rank": 4
+    },
+    {
+     "measures": [
+      263,
+      275
+     ],
+     "share_of_weakness": 0.039,
+     "rank": 6
+    },
+    {
+     "measures": [
+      289,
+      293
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 8
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.331,
+     "segment_rank": 1,
+     "conveyed_after": 0.29,
+     "category_shares": {
+      "Tempo": 0.877,
+      "Touch": 0.025,
+      "Tone": 0.082,
+      "Musicality": 0.016
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.434,
+       "expert_norm": -0.168,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      118,
+      134
+     ],
+     "segment_share_of_weakness": 0.243,
+     "segment_rank": 2,
+     "conveyed_after": 0.408,
+     "category_shares": {
+      "Tempo": 0.481,
+      "Touch": 0.011,
+      "Musicality": 0.251,
+      "Emotion": 0.256
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.402,
+       "expert_norm": -0.718,
+       "toward": "Strict tempo",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L1",
+     "measures": [
+      98,
+      115
+     ],
+     "segment_share_of_weakness": 0.18,
+     "segment_rank": 3,
+     "conveyed_after": 0.514,
+     "category_shares": {
+      "Dynamic": 0.027,
+      "Touch": 0.222,
+      "Musicality": 0.751,
+      "Emotion": 0.0
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.789,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.321,
+      "Collapse (Flat) - Expand (Spacious)": 0.378,
+      "Disproportioned - Balanced": 0.301
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": -0.119,
+       "expert_norm": 0.333,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.134,
+       "expert_norm": 0.667,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.541,
+       "expert_norm": -0.87,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.79 > largest share 0.38",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 75,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_071_PIANO071_MID--AUDIO-split_07-08-17_Piano-e_1-04_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.102,
+     "rank": 4
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.02,
+     "rank": 7
+    },
+    {
+     "measures": [
+      34,
+      56
+     ],
+     "share_of_weakness": 0.312,
+     "rank": 1
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.222,
+     "rank": 2
+    },
+    {
+     "measures": [
+      119,
+      134
+     ],
+     "share_of_weakness": 0.078,
+     "rank": 5
+    },
+    {
+     "measures": [
+      147,
+      156
+     ],
+     "share_of_weakness": 0.046,
+     "rank": 6
+    },
+    {
+     "measures": [
+      194,
+      205
+     ],
+     "share_of_weakness": 0.219,
+     "rank": 3
+    },
+    {
+     "measures": [
+      263,
+      276
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 8
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      194,
+      205
+     ],
+     "segment_share_of_weakness": 0.219,
+     "segment_rank": 3,
+     "conveyed_after": 0.219,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.774,
+       "expert_norm": 0.139,
+       "toward": "Even",
+       "measures_with_guideline": 12
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.312,
+     "segment_rank": 1,
+     "conveyed_after": 0.376,
+     "category_shares": {
+      "Tempo": 0.281,
+      "Dynamic": 0.003,
+      "Touch": 0.024,
+      "Tone": 0.542,
+      "Pedal": 0.135,
+      "Musicality": 0.016
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.236,
+     "share_in_category": 0.928,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.743,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 0.93 >= diffuseness 0.24",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      98,
+      115
+     ],
+     "segment_share_of_weakness": 0.222,
+     "segment_rank": 2,
+     "conveyed_after": 0.514,
+     "category_shares": {
+      "Tempo": 0.62,
+      "Dynamic": 0.005,
+      "Touch": 0.091,
+      "Musicality": 0.284,
+      "Emotion": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.867,
+       "expert_norm": 0.286,
+       "toward": "Freely",
+       "measures_with_guideline": 7
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 76,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--4",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.097,
+     "rank": 5
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 8
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.223,
+     "rank": 2
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.09,
+     "rank": 6
+    },
+    {
+     "measures": [
+      118,
+      133
+     ],
+     "share_of_weakness": 0.104,
+     "rank": 4
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.144,
+     "rank": 3
+    },
+    {
+     "measures": [
+      176,
+      185
+     ],
+     "share_of_weakness": 0.005,
+     "rank": 7
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.336,
+     "rank": 1
+    },
+    {
+     "measures": [
+      255,
+      260
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 11
+    },
+    {
+     "measures": [
+      263,
+      274
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      205
+     ],
+     "segment_share_of_weakness": 0.336,
+     "segment_rank": 1,
+     "conveyed_after": 0.334,
+     "category_shares": {
+      "Touch": 0.006,
+      "Tone": 0.994
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.835,
+       "expert_norm": 0.152,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.223,
+     "segment_rank": 2,
+     "conveyed_after": 0.497,
+     "category_shares": {
+      "Tempo": 0.731,
+      "Dynamic": 0.004,
+      "Touch": 0.005,
+      "Tone": 0.086,
+      "Pedal": 0.16,
+      "Musicality": 0.014
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.411,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      146,
+      156
+     ],
+     "segment_share_of_weakness": 0.144,
+     "segment_rank": 3,
+     "conveyed_after": 0.609,
+     "category_shares": {
+      "Touch": 0.004,
+      "Tone": 0.779,
+      "Pedal": 0.208,
+      "Musicality": 0.009
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.571,
+       "expert_norm": 0.527,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 78,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D1-2-3-6-7-8-11_mid--AUDIO-from_mp3_11_R2_2015_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.029,
+     "rank": 4
+    },
+    {
+     "measures": [
+      34,
+      56
+     ],
+     "share_of_weakness": 0.474,
+     "rank": 1
+    },
+    {
+     "measures": [
+      98,
+      138
+     ],
+     "share_of_weakness": 0.401,
+     "rank": 2
+    },
+    {
+     "measures": [
+      146,
+      157
+     ],
+     "share_of_weakness": 0.084,
+     "rank": 3
+    },
+    {
+     "measures": [
+      195,
+      204
+     ],
+     "share_of_weakness": 0.007,
+     "rank": 5
+    },
+    {
+     "measures": [
+      279,
+      279
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 7
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.005,
+     "rank": 6
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.474,
+     "segment_rank": 1,
+     "conveyed_after": 0.263,
+     "category_shares": {
+      "Tempo": 0.554,
+      "Touch": 0.021,
+      "Tone": 0.307,
+      "Pedal": 0.109,
+      "Musicality": 0.009
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.383,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L1",
+     "measures": [
+      98,
+      138
+     ],
+     "segment_share_of_weakness": 0.401,
+     "segment_rank": 2,
+     "conveyed_after": 0.507,
+     "category_shares": {
+      "Dynamic": 0.027,
+      "Touch": 0.138,
+      "Tone": 0.013,
+      "Musicality": 0.712,
+      "Emotion": 0.11
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.855,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.137,
+      "Collapse (Flat) - Expand (Spacious)": 0.292,
+      "Disproportioned - Balanced": 0.49,
+      "Pure (introverted) - Dramatic (Extraverted)": 0.081
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": -0.088,
+       "expert_norm": -0.022,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 15
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.313,
+       "expert_norm": 0.783,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 23
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.229,
+       "expert_norm": -0.953,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 25
+      },
+      {
+       "name": "Pure (introverted) - Dramatic (Extraverted)",
+       "anchors": [
+        "Pure (introverted)",
+        "Dramatic (Extraverted)"
+       ],
+       "performance": -0.498,
+       "expert_norm": 1.0,
+       "toward": "Dramatic (Extraverted)",
+       "measures_with_guideline": 2
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.85 > largest share 0.49",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.474,
+     "segment_rank": 1,
+     "conveyed_after": 0.635,
+     "category_shares": {
+      "Tempo": 0.554,
+      "Touch": 0.021,
+      "Tone": 0.307,
+      "Pedal": 0.109,
+      "Musicality": 0.009
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.327,
+     "share_in_category": 0.884,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.613,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 0.88 >= diffuseness 0.33",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 79,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_02_R3_2008_01-03_ORIG_MID--AUDIO_02_R3_2008_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.163,
+     "rank": 3
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 9
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.236,
+     "rank": 1
+    },
+    {
+     "measures": [
+      81,
+      85
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 8
+    },
+    {
+     "measures": [
+      96,
+      96
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 11
+    },
+    {
+     "measures": [
+      99,
+      114
+     ],
+     "share_of_weakness": 0.149,
+     "rank": 5
+    },
+    {
+     "measures": [
+      119,
+      136
+     ],
+     "share_of_weakness": 0.088,
+     "rank": 6
+    },
+    {
+     "measures": [
+      144,
+      156
+     ],
+     "share_of_weakness": 0.151,
+     "rank": 4
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.209,
+     "rank": 2
+    },
+    {
+     "measures": [
+      255,
+      255
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 12
+    },
+    {
+     "measures": [
+      264,
+      272
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 7
+    },
+    {
+     "measures": [
+      288,
+      296
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      205
+     ],
+     "segment_share_of_weakness": 0.209,
+     "segment_rank": 2,
+     "conveyed_after": 0.207,
+     "category_shares": {
+      "Dynamic": 0.0,
+      "Touch": 0.013,
+      "Tone": 0.987
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.738,
+       "expert_norm": 0.152,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      144,
+      156
+     ],
+     "segment_share_of_weakness": 0.151,
+     "segment_rank": 4,
+     "conveyed_after": 0.354,
+     "category_shares": {
+      "Touch": 0.003,
+      "Tone": 0.976,
+      "Musicality": 0.022
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.605,
+       "expert_norm": 0.522,
+       "toward": "Even",
+       "measures_with_guideline": 12
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.236,
+     "segment_rank": 1,
+     "conveyed_after": 0.486,
+     "category_shares": {
+      "Tempo": 0.56,
+      "Touch": 0.005,
+      "Tone": 0.244,
+      "Pedal": 0.172,
+      "Musicality": 0.019
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.373,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 81,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_22_R2_2015_wav--2",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.122,
+     "rank": 5
+    },
+    {
+     "measures": [
+      42,
+      46
+     ],
+     "share_of_weakness": 0.002,
+     "rank": 9
+    },
+    {
+     "measures": [
+      48,
+      55
+     ],
+     "share_of_weakness": 0.032,
+     "rank": 7
+    },
+    {
+     "measures": [
+      96,
+      96
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 11
+    },
+    {
+     "measures": [
+      98,
+      115
+     ],
+     "share_of_weakness": 0.218,
+     "rank": 2
+    },
+    {
+     "measures": [
+      118,
+      136
+     ],
+     "share_of_weakness": 0.171,
+     "rank": 3
+    },
+    {
+     "measures": [
+      146,
+      158
+     ],
+     "share_of_weakness": 0.09,
+     "rank": 6
+    },
+    {
+     "measures": [
+      195,
+      203
+     ],
+     "share_of_weakness": 0.125,
+     "rank": 4
+    },
+    {
+     "measures": [
+      266,
+      275
+     ],
+     "share_of_weakness": 0.233,
+     "rank": 1
+    },
+    {
+     "measures": [
+      277,
+      281
+     ],
+     "share_of_weakness": 0.007,
+     "rank": 8
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 10
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      266,
+      275
+     ],
+     "segment_share_of_weakness": 0.233,
+     "segment_rank": 1,
+     "conveyed_after": 0.233,
+     "category_shares": {
+      "Tempo": 1.0,
+      "Musicality": 0.0
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.638,
+       "expert_norm": 0.333,
+       "toward": "Freely",
+       "measures_with_guideline": 7
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      195,
+      203
+     ],
+     "segment_share_of_weakness": 0.125,
+     "segment_rank": 4,
+     "conveyed_after": 0.358,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.64,
+       "expert_norm": 0.111,
+       "toward": "Even",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L1",
+     "measures": [
+      98,
+      115
+     ],
+     "segment_share_of_weakness": 0.218,
+     "segment_rank": 2,
+     "conveyed_after": 0.48,
+     "category_shares": {
+      "Dynamic": 0.03,
+      "Touch": 0.197,
+      "Tone": 0.066,
+      "Musicality": 0.707,
+      "Emotion": 0.0
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.792,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.328,
+      "Collapse (Flat) - Expand (Spacious)": 0.339,
+      "Disproportioned - Balanced": 0.333
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": -0.179,
+       "expert_norm": 0.333,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.138,
+       "expert_norm": 0.667,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.467,
+       "expert_norm": -0.87,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.79 > largest share 0.34",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 82,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_21_R2_2015_wav--2",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.003,
+     "rank": 8
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 9
+    },
+    {
+     "measures": [
+      37,
+      56
+     ],
+     "share_of_weakness": 0.372,
+     "rank": 1
+    },
+    {
+     "measures": [
+      96,
+      115
+     ],
+     "share_of_weakness": 0.129,
+     "rank": 3
+    },
+    {
+     "measures": [
+      118,
+      136
+     ],
+     "share_of_weakness": 0.104,
+     "rank": 5
+    },
+    {
+     "measures": [
+      145,
+      158
+     ],
+     "share_of_weakness": 0.109,
+     "rank": 4
+    },
+    {
+     "measures": [
+      195,
+      203
+     ],
+     "share_of_weakness": 0.261,
+     "rank": 2
+    },
+    {
+     "measures": [
+      210,
+      214
+     ],
+     "share_of_weakness": 0.005,
+     "rank": 7
+    },
+    {
+     "measures": [
+      265,
+      275
+     ],
+     "share_of_weakness": 0.016,
+     "rank": 6
+    },
+    {
+     "measures": [
+      288,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      203
+     ],
+     "segment_share_of_weakness": 0.261,
+     "segment_rank": 2,
+     "conveyed_after": 0.261,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.828,
+       "expert_norm": 0.111,
+       "toward": "Even",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      37,
+      56
+     ],
+     "segment_share_of_weakness": 0.372,
+     "segment_rank": 1,
+     "conveyed_after": 0.457,
+     "category_shares": {
+      "Tempo": 0.316,
+      "Dynamic": 0.001,
+      "Touch": 0.008,
+      "Tone": 0.561,
+      "Pedal": 0.094,
+      "Musicality": 0.02
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.207,
+     "share_in_category": 0.94,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.748,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 0.94 >= diffuseness 0.21",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      37,
+      56
+     ],
+     "segment_share_of_weakness": 0.372,
+     "segment_rank": 1,
+     "conveyed_after": 0.575,
+     "category_shares": {
+      "Tempo": 0.316,
+      "Dynamic": 0.001,
+      "Touch": 0.008,
+      "Tone": 0.561,
+      "Pedal": 0.094,
+      "Musicality": 0.02
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.309,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 83,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_12_R3_2008_01-04_ORIG_MID--AUDIO_12_R3_2008_wav--1",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.038,
+     "rank": 7
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 8
+    },
+    {
+     "measures": [
+      41,
+      56
+     ],
+     "share_of_weakness": 0.37,
+     "rank": 1
+    },
+    {
+     "measures": [
+      81,
+      85
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 9
+    },
+    {
+     "measures": [
+      101,
+      115
+     ],
+     "share_of_weakness": 0.085,
+     "rank": 6
+    },
+    {
+     "measures": [
+      118,
+      133
+     ],
+     "share_of_weakness": 0.106,
+     "rank": 4
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.124,
+     "rank": 3
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.182,
+     "rank": 2
+    },
+    {
+     "measures": [
+      265,
+      274
+     ],
+     "share_of_weakness": 0.093,
+     "rank": 5
+    },
+    {
+     "measures": [
+      287,
+      295
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      41,
+      56
+     ],
+     "segment_share_of_weakness": 0.37,
+     "segment_rank": 1,
+     "conveyed_after": 0.179,
+     "category_shares": {
+      "Tempo": 0.385,
+      "Dynamic": 0.002,
+      "Touch": 0.001,
+      "Tone": 0.483,
+      "Pedal": 0.108,
+      "Musicality": 0.021
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.735,
+       "expert_norm": 0.49,
+       "toward": "Even",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      195,
+      205
+     ],
+     "segment_share_of_weakness": 0.182,
+     "segment_rank": 2,
+     "conveyed_after": 0.357,
+     "category_shares": {
+      "Dynamic": 0.0,
+      "Touch": 0.024,
+      "Tone": 0.976
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.654,
+       "expert_norm": 0.152,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      41,
+      56
+     ],
+     "segment_share_of_weakness": 0.37,
+     "segment_rank": 1,
+     "conveyed_after": 0.499,
+     "category_shares": {
+      "Tempo": 0.385,
+      "Dynamic": 0.002,
+      "Touch": 0.001,
+      "Tone": 0.483,
+      "Pedal": 0.108,
+      "Musicality": 0.021
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.328,
+       "expert_norm": -0.217,
+       "toward": "Freely",
+       "measures_with_guideline": 16
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 84,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_17_R3_2011_MID--AUDIO_R3-D6_02_Track02_wav",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.039,
+     "rank": 6
+    },
+    {
+     "measures": [
+      34,
+      56
+     ],
+     "share_of_weakness": 0.42,
+     "rank": 1
+    },
+    {
+     "measures": [
+      101,
+      113
+     ],
+     "share_of_weakness": 0.127,
+     "rank": 3
+    },
+    {
+     "measures": [
+      119,
+      133
+     ],
+     "share_of_weakness": 0.084,
+     "rank": 4
+    },
+    {
+     "measures": [
+      144,
+      158
+     ],
+     "share_of_weakness": 0.08,
+     "rank": 5
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.23,
+     "rank": 2
+    },
+    {
+     "measures": [
+      208,
+      214
+     ],
+     "share_of_weakness": 0.017,
+     "rank": 7
+    },
+    {
+     "measures": [
+      255,
+      255
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 10
+    },
+    {
+     "measures": [
+      263,
+      275
+     ],
+     "share_of_weakness": 0.003,
+     "rank": 8
+    },
+    {
+     "measures": [
+      286,
+      292
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      34,
+      56
+     ],
+     "segment_share_of_weakness": 0.42,
+     "segment_rank": 1,
+     "conveyed_after": 0.33,
+     "category_shares": {
+      "Tempo": 0.785,
+      "Dynamic": 0.003,
+      "Touch": 0.014,
+      "Tone": 0.133,
+      "Pedal": 0.057,
+      "Musicality": 0.007
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.505,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      195,
+      205
+     ],
+     "segment_share_of_weakness": 0.23,
+     "segment_rank": 2,
+     "conveyed_after": 0.555,
+     "category_shares": {
+      "Touch": 0.02,
+      "Tone": 0.98
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.709,
+       "expert_norm": 0.152,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L1",
+     "measures": [
+      101,
+      113
+     ],
+     "segment_share_of_weakness": 0.127,
+     "segment_rank": 3,
+     "conveyed_after": 0.627,
+     "category_shares": {
+      "Dynamic": 0.018,
+      "Touch": 0.202,
+      "Musicality": 0.779
+     },
+     "node": "Musicality",
+     "category": "Musicality",
+     "H_category": 0.735,
+     "descriptor_shares": {
+      "Driving (Fast paced) - Reserved(Slow paced)": 0.156,
+      "Collapse (Flat) - Expand (Spacious)": 0.429,
+      "Disproportioned - Balanced": 0.415
+     },
+     "deviations": [
+      {
+       "name": "Driving (Fast paced) - Reserved(Slow paced)",
+       "anchors": [
+        "Driving (Fast paced)",
+        "Reserved(Slow paced)"
+       ],
+       "performance": 0.001,
+       "expert_norm": 0.333,
+       "toward": "Reserved(Slow paced)",
+       "measures_with_guideline": 4
+      },
+      {
+       "name": "Collapse (Flat) - Expand (Spacious)",
+       "anchors": [
+        "Collapse (Flat)",
+        "Expand (Spacious)"
+       ],
+       "performance": 0.146,
+       "expert_norm": 0.667,
+       "toward": "Expand (Spacious)",
+       "measures_with_guideline": 7
+      },
+      {
+       "name": "Disproportioned - Balanced",
+       "anchors": [
+        "Disproportioned",
+        "Balanced"
+       ],
+       "performance": -0.479,
+       "expert_norm": -0.87,
+       "toward": "Disproportioned",
+       "measures_with_guideline": 9
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.73 > largest share 0.43",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 85,
+   "piece": "Beethoven, Thirty-Two Variations in C minor, WoO 80",
+   "maestro_file": "MIDI-Unprocessed_075_PIANO075_MID--AUDIO-split_07-08-17_Piano-e_2-06_wav--2",
+   "n_measures": 306,
+   "segments": [
+    {
+     "measures": [
+      1,
+      10
+     ],
+     "share_of_weakness": 0.028,
+     "rank": 6
+    },
+    {
+     "measures": [
+      16,
+      20
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 7
+    },
+    {
+     "measures": [
+      36,
+      56
+     ],
+     "share_of_weakness": 0.312,
+     "rank": 2
+    },
+    {
+     "measures": [
+      96,
+      115
+     ],
+     "share_of_weakness": 0.094,
+     "rank": 4
+    },
+    {
+     "measures": [
+      118,
+      133
+     ],
+     "share_of_weakness": 0.06,
+     "rank": 5
+    },
+    {
+     "measures": [
+      146,
+      156
+     ],
+     "share_of_weakness": 0.157,
+     "rank": 3
+    },
+    {
+     "measures": [
+      195,
+      205
+     ],
+     "share_of_weakness": 0.348,
+     "rank": 1
+    },
+    {
+     "measures": [
+      268,
+      276
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 8
+    },
+    {
+     "measures": [
+      288,
+      293
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 9
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      195,
+      205
+     ],
+     "segment_share_of_weakness": 0.348,
+     "segment_rank": 1,
+     "conveyed_after": 0.348,
+     "category_shares": {
+      "Tone": 1.0
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.818,
+       "expert_norm": 0.152,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      146,
+      156
+     ],
+     "segment_share_of_weakness": 0.157,
+     "segment_rank": 3,
+     "conveyed_after": 0.5,
+     "category_shares": {
+      "Tempo": 0.021,
+      "Touch": 0.005,
+      "Tone": 0.973,
+      "Musicality": 0.001
+     },
+     "node": "Even - Colourful",
+     "category": "Tone",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Even - Colourful",
+       "anchors": [
+        "Even",
+        "Colourful"
+       ],
+       "performance": 0.648,
+       "expert_norm": 0.527,
+       "toward": "Even",
+       "measures_with_guideline": 11
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": null
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      56
+     ],
+     "segment_share_of_weakness": 0.312,
+     "segment_rank": 2,
+     "conveyed_after": 0.635,
+     "category_shares": {
+      "Tempo": 0.431,
+      "Dynamic": 0.001,
+      "Touch": 0.005,
+      "Tone": 0.352,
+      "Pedal": 0.2,
+      "Musicality": 0.012
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.355,
+       "expert_norm": -0.193,
+       "toward": "Freely",
+       "measures_with_guideline": 17
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": null
+    }
+   ]
+  },
+  {
+   "pid": 53,
+   "piece": "Chopin, Etude Op. 10 No. 1 in C major",
+   "maestro_file": "MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--3",
+   "n_measures": 79,
+   "segments": [
+    {
+     "measures": [
+      36,
+      48
+     ],
+     "share_of_weakness": 0.172,
+     "rank": 2
+    },
+    {
+     "measures": [
+      54,
+      58
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 4
+    },
+    {
+     "measures": [
+      64,
+      73
+     ],
+     "share_of_weakness": 0.758,
+     "rank": 1
+    },
+    {
+     "measures": [
+      76,
+      79
+     ],
+     "share_of_weakness": 0.069,
+     "rank": 3
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L1",
+     "measures": [
+      64,
+      73
+     ],
+     "segment_share_of_weakness": 0.758,
+     "segment_rank": 1,
+     "conveyed_after": 0.49,
+     "category_shares": {
+      "Tempo": 0.187,
+      "Tone": 0.009,
+      "Pedal": 0.755,
+      "Musicality": 0.001,
+      "Emotion": 0.048
+     },
+     "node": "Pedal",
+     "category": "Pedal",
+     "H_category": 0.856,
+     "descriptor_shares": {
+      "Dry (sparse) - Wet (saturated)": 0.28,
+      "Clean (individual) - Rich (overlap)": 0.72
+     },
+     "deviations": [
+      {
+       "name": "Dry (sparse) - Wet (saturated)",
+       "anchors": [
+        "Dry (sparse)",
+        "Wet (saturated)"
+       ],
+       "performance": 0.651,
+       "expert_norm": -0.6,
+       "toward": "Dry (sparse)",
+       "measures_with_guideline": 2
+      },
+      {
+       "name": "Clean (individual) - Rich (overlap)",
+       "anchors": [
+        "Clean (individual)",
+        "Rich (overlap)"
+       ],
+       "performance": 0.025,
+       "expert_norm": 0.667,
+       "toward": "Rich (overlap)",
+       "measures_with_guideline": 10
+      }
+     ],
+     "why_level": "diffuse: diffuseness 0.86 > largest share 0.72",
+     "score_context": {
+      "measures": "64~73",
+      "dynamics": [],
+      "expressions": [
+       "cresc. (m. 69)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      64,
+      73
+     ],
+     "segment_share_of_weakness": 0.758,
+     "segment_rank": 1,
+     "conveyed_after": 0.631,
+     "category_shares": {
+      "Tempo": 0.187,
+      "Tone": 0.009,
+      "Pedal": 0.755,
+      "Musicality": 0.001,
+      "Emotion": 0.048
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.331,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 10
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "64~73",
+      "dynamics": [],
+      "expressions": [
+       "cresc. (m. 69)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.172,
+     "segment_rank": 2,
+     "conveyed_after": 0.754,
+     "category_shares": {
+      "Tempo": 0.71,
+      "Touch": 0.024,
+      "Musicality": 0.266
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.366,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "pid": 54,
+   "piece": "Chopin, Etude Op. 10 No. 1 in C major",
+   "maestro_file": "MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--4",
+   "n_measures": 79,
+   "segments": [
+    {
+     "measures": [
+      36,
+      48
+     ],
+     "share_of_weakness": 0.89,
+     "rank": 1
+    },
+    {
+     "measures": [
+      66,
+      79
+     ],
+     "share_of_weakness": 0.11,
+     "rank": 2
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.89,
+     "segment_rank": 1,
+     "conveyed_after": 0.778,
+     "category_shares": {
+      "Tempo": 0.874,
+      "Touch": 0.002,
+      "Musicality": 0.051,
+      "Emotion": 0.073
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.464,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      66,
+      79
+     ],
+     "segment_share_of_weakness": 0.11,
+     "segment_rank": 2,
+     "conveyed_after": 0.862,
+     "category_shares": {
+      "Tone": 0.046,
+      "Pedal": 0.186,
+      "Musicality": 0.005,
+      "Emotion": 0.763
+     },
+     "node": "Honest - Imaginative",
+     "category": "Emotion",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Honest - Imaginative",
+       "anchors": [
+        "Honest",
+        "Imaginative"
+       ],
+       "performance": -0.354,
+       "expert_norm": 1.0,
+       "toward": "Imaginative",
+       "measures_with_guideline": 14
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": {
+      "measures": "66~79",
+      "dynamics": [],
+      "expressions": [
+       "cresc. (m. 69)",
+       "dim. (m. 76)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.89,
+     "segment_rank": 1,
+     "conveyed_after": 0.927,
+     "category_shares": {
+      "Tempo": 0.874,
+      "Touch": 0.002,
+      "Musicality": 0.051,
+      "Emotion": 0.073
+     },
+     "node": "Honest - Imaginative",
+     "category": "Emotion",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Honest - Imaginative",
+       "anchors": [
+        "Honest",
+        "Imaginative"
+       ],
+       "performance": -0.284,
+       "expert_norm": 1.0,
+       "toward": "Imaginative",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "pid": 55,
+   "piece": "Chopin, Etude Op. 10 No. 1 in C major",
+   "maestro_file": "ORIG-MIDI_02_7_7_13_Group__MID--AUDIO_19_R1_2013_wav--3",
+   "n_measures": 79,
+   "segments": [
+    {
+     "measures": [
+      36,
+      48
+     ],
+     "share_of_weakness": 0.939,
+     "rank": 1
+    },
+    {
+     "measures": [
+      54,
+      58
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 3
+    },
+    {
+     "measures": [
+      66,
+      72
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 4
+    },
+    {
+     "measures": [
+      74,
+      79
+     ],
+     "share_of_weakness": 0.059,
+     "rank": 2
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.939,
+     "segment_rank": 1,
+     "conveyed_after": 0.731,
+     "category_shares": {
+      "Tempo": 0.778,
+      "Touch": 0.0,
+      "Tone": 0.094,
+      "Pedal": 0.037,
+      "Musicality": 0.015,
+      "Emotion": 0.076
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.67,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.939,
+     "segment_rank": 1,
+     "conveyed_after": 0.802,
+     "category_shares": {
+      "Tempo": 0.778,
+      "Touch": 0.0,
+      "Tone": 0.094,
+      "Pedal": 0.037,
+      "Musicality": 0.015,
+      "Emotion": 0.076
+     },
+     "node": "Honest - Imaginative",
+     "category": "Emotion",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Honest - Imaginative",
+       "anchors": [
+        "Honest",
+        "Imaginative"
+       ],
+       "performance": -0.377,
+       "expert_norm": 1.0,
+       "toward": "Imaginative",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.939,
+     "segment_rank": 1,
+     "conveyed_after": 0.855,
+     "category_shares": {
+      "Tempo": 0.778,
+      "Touch": 0.0,
+      "Tone": 0.094,
+      "Pedal": 0.037,
+      "Musicality": 0.015,
+      "Emotion": 0.076
+     },
+     "node": "Sophisticated - Raw",
+     "category": "Tone",
+     "H_category": 0.608,
+     "share_in_category": 0.611,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Sophisticated - Raw",
+       "anchors": [
+        "Sophisticated",
+        "Raw"
+       ],
+       "performance": 0.721,
+       "expert_norm": 0.333,
+       "toward": "Sophisticated",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "concentrated: share 0.61 >= diffuseness 0.61",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "pid": 59,
+   "piece": "Chopin, Etude Op. 10 No. 1 in C major",
+   "maestro_file": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--2",
+   "n_measures": 79,
+   "segments": [
+    {
+     "measures": [
+      5,
+      6
+     ],
+     "share_of_weakness": 0.0,
+     "rank": 5
+    },
+    {
+     "measures": [
+      36,
+      48
+     ],
+     "share_of_weakness": 0.628,
+     "rank": 1
+    },
+    {
+     "measures": [
+      51,
+      58
+     ],
+     "share_of_weakness": 0.297,
+     "rank": 2
+    },
+    {
+     "measures": [
+      65,
+      71
+     ],
+     "share_of_weakness": 0.001,
+     "rank": 4
+    },
+    {
+     "measures": [
+      74,
+      79
+     ],
+     "share_of_weakness": 0.074,
+     "rank": 3
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.628,
+     "segment_rank": 1,
+     "conveyed_after": 0.463,
+     "category_shares": {
+      "Tempo": 0.738,
+      "Touch": 0.003,
+      "Tone": 0.115,
+      "Pedal": 0.033,
+      "Musicality": 0.021,
+      "Emotion": 0.089
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.56,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      51,
+      58
+     ],
+     "segment_share_of_weakness": 0.297,
+     "segment_rank": 2,
+     "conveyed_after": 0.758,
+     "category_shares": {
+      "Tempo": 0.991,
+      "Touch": 0.009
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.561,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 8
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "51~58",
+      "dynamics": [],
+      "expressions": [],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      74,
+      79
+     ],
+     "segment_share_of_weakness": 0.074,
+     "segment_rank": 3,
+     "conveyed_after": 0.815,
+     "category_shares": {
+      "Tone": 0.006,
+      "Pedal": 0.091,
+      "Musicality": 0.142,
+      "Emotion": 0.762
+     },
+     "node": "Honest - Imaginative",
+     "category": "Emotion",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Honest - Imaginative",
+       "anchors": [
+        "Honest",
+        "Imaginative"
+       ],
+       "performance": -0.502,
+       "expert_norm": 1.0,
+       "toward": "Imaginative",
+       "measures_with_guideline": 6
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": {
+      "measures": "74~79",
+      "dynamics": [],
+      "expressions": [
+       "dim. (m. 76)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "pid": 60,
+   "piece": "Chopin, Etude Op. 10 No. 1 in C major",
+   "maestro_file": "MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--2",
+   "n_measures": 79,
+   "segments": [
+    {
+     "measures": [
+      36,
+      48
+     ],
+     "share_of_weakness": 0.464,
+     "rank": 1
+    },
+    {
+     "measures": [
+      51,
+      58
+     ],
+     "share_of_weakness": 0.396,
+     "rank": 2
+    },
+    {
+     "measures": [
+      65,
+      72
+     ],
+     "share_of_weakness": 0.065,
+     "rank": 4
+    },
+    {
+     "measures": [
+      74,
+      79
+     ],
+     "share_of_weakness": 0.075,
+     "rank": 3
+    }
+   ],
+   "items": [
+    {
+     "rank": 1,
+     "level": "L2",
+     "measures": [
+      51,
+      58
+     ],
+     "segment_share_of_weakness": 0.396,
+     "segment_rank": 2,
+     "conveyed_after": 0.393,
+     "category_shares": {
+      "Tempo": 0.991,
+      "Touch": 0.009
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.606,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 8
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "51~58",
+      "dynamics": [],
+      "expressions": [],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "level": "L2",
+     "measures": [
+      36,
+      48
+     ],
+     "segment_share_of_weakness": 0.464,
+     "segment_rank": 1,
+     "conveyed_after": 0.771,
+     "category_shares": {
+      "Tempo": 0.816,
+      "Touch": 0.0,
+      "Tone": 0.089,
+      "Pedal": 0.071,
+      "Musicality": 0.024
+     },
+     "node": "Strict tempo - Freely",
+     "category": "Tempo",
+     "H_category": 1.0,
+     "share_in_category": 1.0,
+     "single_descriptor": true,
+     "deviations": [
+      {
+       "name": "Strict tempo - Freely",
+       "anchors": [
+        "Strict tempo",
+        "Freely"
+       ],
+       "performance": -0.579,
+       "expert_norm": 0.667,
+       "toward": "Freely",
+       "measures_with_guideline": 13
+      }
+     ],
+     "why_level": "single descriptor in its category",
+     "score_context": {
+      "measures": "36~48",
+      "dynamics": [
+       "f (m. 45)"
+      ],
+      "expressions": [
+       "dimin. (m. 36)",
+       "cresc. (m. 42)",
+       "dim. (m. 48)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "level": "L2",
+     "measures": [
+      74,
+      79
+     ],
+     "segment_share_of_weakness": 0.075,
+     "segment_rank": 3,
+     "conveyed_after": 0.834,
+     "category_shares": {
+      "Tone": 0.004,
+      "Musicality": 0.159,
+      "Emotion": 0.837
+     },
+     "node": "Honest - Imaginative",
+     "category": "Emotion",
+     "H_category": 0.0,
+     "share_in_category": 1.0,
+     "single_descriptor": false,
+     "deviations": [
+      {
+       "name": "Honest - Imaginative",
+       "anchors": [
+        "Honest",
+        "Imaginative"
+       ],
+       "performance": -0.599,
+       "expert_norm": 1.0,
+       "toward": "Imaginative",
+       "measures_with_guideline": 6
+      }
+     ],
+     "why_level": "concentrated: share 1.00 >= diffuseness 0.00",
+     "score_context": {
+      "measures": "74~79",
+      "dynamics": [],
+      "expressions": [
+       "dim. (m. 76)"
+      ],
+      "hairpins": 14,
+      "articulations": [
+       "accent"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

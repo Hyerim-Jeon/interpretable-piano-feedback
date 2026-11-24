@@ -1,0 +1,24 @@
+﻿feature_name,feature,new_feature,lv1,lv1_ name,new_lv1,new_lv1_name,7value_back
+Strict tempo - Freely,1,11,1,Tempo,1,Tempo,0
+Soft - Loud,2,12,2,Dynamic,2,Dynamic,0
+Narrow range - Wide range,3,13,2,Dynamic,2,Dynamic,0
+Short Touch - Long Touch,4,14,3,Touch,3,Touch,1
+Soft Touch - Hard Touch,5,15,3,Touch,3,Touch,0
+Shallow (Light) - Deep (Heavier),6,18,4,Articulation,3,Touch,0
+Even - Colourful,7,19,5,Tone,4,Tone,0
+Bright - Dark,8,20,5,Tone,4,Tone,0
+Sophisticated - Raw,9,21,5,Tone,4,Tone,0
+Dry (sparse) - Wet (saturated),10,22,6,Pedal,5,Pedal,0
+Clean (individual) - Rich (overlap),11,23,6,Pedal,5,Pedal,0
+Driving (Fast paced) - Reserved(Slow paced),12,24,7,Musicality,6,Musicality,0
+Collapse (Flat) - Expand (Spacious),13,25,7,Musicality,6,Musicality,0
+Disproportioned - Balanced,14,26,7,Musicality,6,Musicality,1
+Pure (introverted) - Dramatic (Extraverted),15,27,7,Musicality,6,Musicality,0
+Optimistic/pleasant - Pessimistic/sad,16,28,8,Emotion,7,Emotion,0
+Low Energy - High Energy,17,29,8,Emotion,7,Emotion,0
+Honest - Imaginative,18,30,8,Emotion,7,Emotion,0
+Unsatisfactory - Convincing Interpretation,19,31,9,Competency,8,Competency,0
+Slow-Fast,20,10,1,Tempo,,,0
+Long-Short,21,16,4,Articulation,,,0
+Soft-Hard,22,17,4,Articulation,,,0
+Lack of technique - Great skill,23,32,9,Competency,,,0

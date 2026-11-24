@@ -1,0 +1,272 @@
+[
+    {
+        "level":2,
+        "feature_id":1,
+        "from":"Strict tempo - Freely",
+        "to":"Tempo",
+        "norm_weight":0.5388562132,
+        "direction":-1.0,
+        "source":"Hybrid (n=35)",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":2,
+        "from":"Soft - Loud",
+        "to":"Dynamic",
+        "norm_weight":0.3825553748,
+        "direction":1.0,
+        "source":"Hybrid (n=8)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":3,
+        "from":"Narrow range - Wide range",
+        "to":"Dynamic",
+        "norm_weight":1.0,
+        "direction":1.0,
+        "source":"Hybrid (n=13)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":4,
+        "from":"Short Touch - Long Touch",
+        "to":"Touch",
+        "norm_weight":0.1716931548,
+        "direction":-1.0,
+        "source":"Hybrid (n=28)",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":5,
+        "from":"Soft Touch - Hard Touch",
+        "to":"Touch",
+        "norm_weight":0.811663121,
+        "direction":-1.0,
+        "source":"Hybrid (n=1)",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":6,
+        "from":"Shallow (Light) - Deep (Heavier)",
+        "to":"Touch",
+        "norm_weight":0.1116255788,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":7,
+        "from":"Even - Colourful",
+        "to":"Tone",
+        "norm_weight":0.8343136028,
+        "direction":-1.0,
+        "source":"Hybrid (n=6)",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":8,
+        "from":"Bright - Dark",
+        "to":"Tone",
+        "norm_weight":0.1131272682,
+        "direction":1.0,
+        "source":"Hybrid (n=3)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":9,
+        "from":"Sophisticated - Raw",
+        "to":"Tone",
+        "norm_weight":0.1296458516,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":10,
+        "from":"Dry (sparse) - Wet (saturated)",
+        "to":"Pedal",
+        "norm_weight":0.7936428482,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":11,
+        "from":"Clean (individual) - Rich (overlap)",
+        "to":"Pedal",
+        "norm_weight":0.4577649856,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":12,
+        "from":"Driving (Fast paced) - Reserved(Slow paced)",
+        "to":"Musicality",
+        "norm_weight":0.0331623076,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":13,
+        "from":"Collapse (Flat) - Expand (Spacious)",
+        "to":"Musicality",
+        "norm_weight":0.2311350269,
+        "direction":1.0,
+        "source":"Global Only",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":14,
+        "from":"Disproportioned - Balanced",
+        "to":"Musicality",
+        "norm_weight":0.9359279189,
+        "direction":1.0,
+        "source":"Global Only",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":15,
+        "from":"Pure (introverted) - Dramatic (Extraverted)",
+        "to":"Musicality",
+        "norm_weight":0.0513077212,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":16,
+        "from":"Optimistic\/pleasant - Pessimistic\/sad",
+        "to":"Emotion",
+        "norm_weight":0.1450381679,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":17,
+        "from":"Low Energy - High Energy",
+        "to":"Emotion",
+        "norm_weight":0.1933425103,
+        "direction":-1.0,
+        "source":"Global Only",
+        "Effect":"Negative(-)"
+    },
+    {
+        "level":2,
+        "feature_id":18,
+        "from":"Honest - Imaginative",
+        "to":"Emotion",
+        "norm_weight":0.9130271555,
+        "direction":1.0,
+        "source":"Global Only",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":2,
+        "feature_id":19,
+        "from":"Unsatisfactory - Convincing Interpretation",
+        "to":"Competency",
+        "norm_weight":0.9169065198,
+        "direction":1.0,
+        "source":"Global Only",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":8,
+        "from":"Competency",
+        "to":"Overall Interpretation",
+        "norm_weight":1.0,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":6,
+        "from":"Musicality",
+        "to":"Overall Interpretation",
+        "norm_weight":0.2155305046,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":1,
+        "from":"Tempo",
+        "to":"Overall Interpretation",
+        "norm_weight":0.2125833054,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":4,
+        "from":"Tone",
+        "to":"Overall Interpretation",
+        "norm_weight":0.0621476202,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":5,
+        "from":"Pedal",
+        "to":"Overall Interpretation",
+        "norm_weight":0.0559969242,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":2,
+        "from":"Dynamic",
+        "to":"Overall Interpretation",
+        "norm_weight":0.0530497202,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":3,
+        "from":"Touch",
+        "to":"Overall Interpretation",
+        "norm_weight":0.0456176321,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    },
+    {
+        "level":1,
+        "feature_id":7,
+        "from":"Emotion",
+        "to":"Overall Interpretation",
+        "norm_weight":0.0278062545,
+        "direction":1.0,
+        "source":"SHAP (L1->L0)",
+        "Effect":"Positive(+)"
+    }
+]
